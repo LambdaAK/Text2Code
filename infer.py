@@ -86,7 +86,11 @@ def main():
         dropout=0.0,
         pad_id=pad_id,
     )
-    model.load_state_dict(ckpt["model_state"])
+    state = ckpt["model_state"]
+    # Handle checkpoint saved from torch.compile-wrapped model (keys prefixed with _orig_mod.)
+    if state and next(iter(state.keys()), "").startswith("_orig_mod."):
+        state = {k.replace("_orig_mod.", ""): v for k, v in state.items()}
+    model.load_state_dict(state)
     model.to(device)
     model.eval()
 
@@ -101,16 +105,21 @@ def main():
                 code = generate(model, vocab, nl, device)
                 print(json.dumps({"nl": nl, "code": code}))
     else:
-        print("Enter natural language (Ctrl-D to exit):")
+        print("Text2Code REPL — natural language → code")
+        print("Type a description, press Enter. Ctrl-D to exit.\n")
         try:
             while True:
-                nl = input("> ")
-                if not nl:
+                try:
+                    nl = input(">>> ")
+                except EOFError:
+                    break
+                if not nl.strip():
                     continue
-                code = generate(model, vocab, nl, device)
-                print(code)
+                code = generate(model, vocab, nl.strip(), device)
+                print(f"=> {code}\n")
         except EOFError:
             pass
+        print("\nBye.")
 
 
 if __name__ == "__main__":

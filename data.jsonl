@@ -1,4 +1,0 @@
-{"nl": "three", "code": "3"}
-{"nl": "apply c to n", "code": "(c n)"}
-{"nl": "a function that takes x and returns call a with n is smaller than false", "code": "lambda x . a (n < false)"}
-{"nl": "one is equal to false not equal to f minus 9 and true not equal to true", "code": "(1 == false != f) - (9 && true != true)"}
