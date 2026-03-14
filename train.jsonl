@@ -1,0 +1,1000 @@
+{"nl": "compute negated eight", "code": "-8"}
+{"nl": "false", "code": "false"}
+{"nl": "the variable x applied to minus the variable b", "code": "x (-b)"}
+{"nl": "apply c to b", "code": "c b"}
+{"nl": "y equals b", "code": "b == y"}
+{"nl": "where g is b, five", "code": "let g = b in 5"}
+{"nl": "function that takes c and gives 7", "code": "lambda c . 7"}
+{"nl": "if 8 is smaller than 0 then 9, otherwise f", "code": "if 8 < 0 then 9 else f"}
+{"nl": "given a equals true, true", "code": "let a = true in true"}
+{"nl": "where x is false, y", "code": "let x = false in y"}
+{"nl": "c differs from 8", "code": "c != 8"}
+{"nl": "lambda f . x", "code": "lambda f . x"}
+{"nl": "a function of x that returns x", "code": "lambda x . x"}
+{"nl": "let f be f in false", "code": "let f = f in false"}
+{"nl": "three plus two", "code": "3 + 2"}
+{"nl": "true", "code": "true"}
+{"nl": "if true then when c, seven, otherwise true else eight", "code": "if true then if c then 7 else true else 8"}
+{"nl": "define n as false in 3", "code": "let n = false in 3"}
+{"nl": "function that takes a and gives 1", "code": "lambda a . 1"}
+{"nl": "when four equals g applied to the variable g then eight else f", "code": "if 4 == g g then 8 else f"}
+{"nl": "true and also z", "code": "true && z"}
+{"nl": "the negation of 0", "code": "-0"}
+{"nl": "z of true decreased by 5", "code": "z true - 5"}
+{"nl": "y applied to x", "code": "y x"}
+{"nl": "the difference of minus five and the sum of the difference of one and 4 and four", "code": "-5 - (1 - 4 + 4)"}
+{"nl": "the sum of eight and three", "code": "8 + 3"}
+{"nl": "where g is six, call z on true", "code": "let g = 6 in z true"}
+{"nl": "evaluate 2 is smaller than 4", "code": "2 < 4"}
+{"nl": "the variable x", "code": "x"}
+{"nl": "if false and also true, if false, false else n else f is below 8", "code": "if false && true then if false then false else n else f < 8"}
+{"nl": "if n equal to four, a greater than b else two", "code": "if n == 4 then a > b else 2"}
+{"nl": "let x equal c of false in n of true", "code": "let x = c false in n true"}
+{"nl": "if c and f then false else true or true", "code": "if c && f then false else true || true"}
+{"nl": "evaluate z", "code": "z"}
+{"nl": "the sum of two and 1", "code": "1 + 2"}
+{"nl": "with n equal to 3, 5 is different from zero", "code": "let n = 3 in 5 != 0"}
+{"nl": "g", "code": "g"}
+{"nl": "n multiplied by 1 equals 7", "code": "n * 1 == 7"}
+{"nl": "minus 4", "code": "-4"}
+{"nl": "evaluate a function that takes f and returns false", "code": "lambda f . false"}
+{"nl": "the difference of g and 6", "code": "g - 6"}
+{"nl": "three", "code": "3"}
+{"nl": "the function taking n and returning 9", "code": "lambda n . 9"}
+{"nl": "x minus 2", "code": "x - 2"}
+{"nl": "the value of f and f are equal", "code": "f == f"}
+{"nl": "9 decreased by three", "code": "9 - 3"}
+{"nl": "one is not equal to the value of n", "code": "1 != n"}
+{"nl": "evaluate true as well as false", "code": "true && false"}
+{"nl": "call n on where z is false, false", "code": "n (let z = false in false)"}
+{"nl": "a plus n", "code": "a + n"}
+{"nl": "two", "code": "2"}
+{"nl": "the difference of b plus z and four", "code": "b + z - 4"}
+{"nl": "call the variable g on false", "code": "g false"}
+{"nl": "the value of n applied to a", "code": "n a"}
+{"nl": "call y with 8 added to six", "code": "y (8 + 6)"}
+{"nl": "when six is greater than g, a, otherwise false", "code": "if 6 > g then a else false"}
+{"nl": "call x with false", "code": "x false"}
+{"nl": "seven differs from f", "code": "7 != f"}
+{"nl": "a of false", "code": "a false"}
+{"nl": "3 take away 6", "code": "3 - 6"}
+{"nl": "lambda x . false", "code": "lambda x . false"}
+{"nl": "return function that takes z and gives y", "code": "lambda z . y"}
+{"nl": "both g equal to f and call the variable a on false", "code": "g == f && a false"}
+{"nl": "call a with false", "code": "a false"}
+{"nl": "calculate a function of a that returns true", "code": "lambda a . true"}
+{"nl": "negative z", "code": "-z"}
+{"nl": "if false then in case 3 below six, when false, the value of g, otherwise b, otherwise the product of five times n else subtract 4 from seven is larger than 0", "code": "if false then if 3 < 6 then if false then g else b else 5 * n else 7 - 4 > 0"}
+{"nl": "let a equal true in eight", "code": "let a = true in 8"}
+{"nl": "if true then z else either true or true", "code": "if true then z else true || true"}
+{"nl": "the variable b multiplied by a", "code": "b * a"}
+{"nl": "return x equals 8", "code": "x == 8"}
+{"nl": "add the negation of z and eight less than add negated six and eight", "code": "-z + 8 < -6 + 8"}
+{"nl": "given f equals y, g", "code": "let f = y in g"}
+{"nl": "when the variable a applied to g, 4, otherwise call g with true", "code": "if a g then 4 else g true"}
+{"nl": "the difference of g and c", "code": "g - c"}
+{"nl": "return x is smaller than the negation of seven", "code": "x < -7"}
+{"nl": "the function taking f and returning four", "code": "lambda f . 4"}
+{"nl": "compute a applied to c", "code": "a c"}
+{"nl": "c is smaller than six", "code": "c < 6"}
+{"nl": "evaluate 6 equals add b and z and true", "code": "6 == b + z && true"}
+{"nl": "multiply f by nine", "code": "f * 9"}
+{"nl": "f applied to true", "code": "f true"}
+{"nl": "one is more than 8", "code": "1 > 8"}
+{"nl": "apply the variable n to true", "code": "n true"}
+{"nl": "the sum of eight and five", "code": "8 + 5"}
+{"nl": "g and 4 are equal", "code": "g == 4"}
+{"nl": "c is smaller than y", "code": "c < y"}
+{"nl": "in case false and also true, 7, otherwise 2", "code": "if false && true then 7 else 2"}
+{"nl": "if true, true else true", "code": "if true then true else true"}
+{"nl": "calculate function that takes f and gives 4", "code": "lambda f . 4"}
+{"nl": "eight equal to four", "code": "8 == 4"}
+{"nl": "n of five", "code": "n 5"}
+{"nl": "evaluate let b be two in seven", "code": "let b = 2 in 7"}
+{"nl": "return x less than nine or else take two from g is smaller than b", "code": "x < 9 || g - 2 < b"}
+{"nl": "five equals 5", "code": "5 == 5"}
+{"nl": "eight", "code": "8"}
+{"nl": "the function taking f and returning y applied to 7", "code": "lambda f . y 7"}
+{"nl": "b above 5", "code": "b > 5"}
+{"nl": "when apply f to 5, when false then the variable b else four, otherwise takes z and returns false", "code": "if f 5 then if false then b else 4 else lambda z . false"}
+{"nl": "y or false", "code": "y || false"}
+{"nl": "let b be b in 7", "code": "let b = b in 7"}
+{"nl": "a of 7", "code": "a 7"}
+{"nl": "where b is a function that takes g and returns true, f", "code": "let b = lambda g . true in f"}
+{"nl": "both false and true or alternatively b", "code": "false && (true || b)"}
+{"nl": "if true then two, otherwise 4", "code": "if true then 2 else 4"}
+{"nl": "a and one are different", "code": "a != 1"}
+{"nl": "function that takes b and gives a", "code": "lambda b . a"}
+{"nl": "false and also false", "code": "false && false"}
+{"nl": "return the sum of b plus five and five", "code": "b + 5 + 5"}
+{"nl": "apply b to a function that takes n and returns x is the same as c", "code": "b (lambda n . x == c)"}
+{"nl": "evaluate if y is larger than 4 then b applied to true else multiply y by y", "code": "if y > 4 then b true else y * y"}
+{"nl": "call g on 2 above a", "code": "g (2 > a)"}
+{"nl": "zero and 4 are different and true or alternatively false", "code": "0 != 4 && (true || false)"}
+{"nl": "false as well as true", "code": "false && true"}
+{"nl": "f of true", "code": "f true"}
+{"nl": "define b as four in a", "code": "let b = 4 in a"}
+{"nl": "the function taking f and returning false", "code": "lambda f . false"}
+{"nl": "evaluate negative four and 3 added together", "code": "-(4 + 3)"}
+{"nl": "a function that takes g and returns c", "code": "lambda g . c"}
+{"nl": "with z equal to true, x", "code": "let z = true in x"}
+{"nl": "where c is true, two", "code": "let c = true in 2"}
+{"nl": "sum of 4 and sum of g and the variable y", "code": "g + y + 4"}
+{"nl": "if z is smaller than x applied to false, zero else a", "code": "if z < x false then 0 else a"}
+{"nl": "3 plus nine is the same as seven", "code": "3 + 9 == 7"}
+{"nl": "7 is below n", "code": "7 < n"}
+{"nl": "8 and four added together", "code": "8 + 4"}
+{"nl": "return true as well as true", "code": "true && true"}
+{"nl": "six decreased by c", "code": "6 - c"}
+{"nl": "lambda g . 1", "code": "lambda g . 1"}
+{"nl": "where f is either false or true, a function of y that returns the value of c", "code": "let f = false || true in lambda y . c"}
+{"nl": "seven", "code": "7"}
+{"nl": "sum of nine and 5", "code": "9 + 5"}
+{"nl": "z of true", "code": "z true"}
+{"nl": "g below 3", "code": "g < 3"}
+{"nl": "let g equal true in when n, c, otherwise true", "code": "let g = true in if n then c else true"}
+{"nl": "where f is nine, false", "code": "let f = 9 in false"}
+{"nl": "call f on false", "code": "f false"}
+{"nl": "n multiplied by c decreased by g", "code": "n * c - g"}
+{"nl": "apply b to the value of g", "code": "b g"}
+{"nl": "multiply 9 by 5", "code": "5 * 9"}
+{"nl": "0 greater than 6", "code": "0 > 6"}
+{"nl": "subtract 7 from c", "code": "c - 7"}
+{"nl": "the variable x applied to g", "code": "x g"}
+{"nl": "evaluate the sum of 4 and f", "code": "f + 4"}
+{"nl": "apply c to 8 minus the variable z", "code": "c (8 - z)"}
+{"nl": "multiply add four and g plus 6 and 6", "code": "(4 + (g + 6)) * 6"}
+{"nl": "call f on a", "code": "f a"}
+{"nl": "9", "code": "9"}
+{"nl": "true or alternatively true", "code": "true || true"}
+{"nl": "z", "code": "z"}
+{"nl": "n", "code": "n"}
+{"nl": "c is less than the negative of z", "code": "c < -z"}
+{"nl": "seven above three", "code": "7 > 3"}
+{"nl": "call a function of g that returns 3 on call the variable c on z", "code": "(lambda g . 3) (c z)"}
+{"nl": "evaluate true", "code": "true"}
+{"nl": "six decreased by minus one", "code": "6 - -1"}
+{"nl": "the product of x and eight is the same as the negation of one", "code": "8 * x == -1"}
+{"nl": "false and the variable y", "code": "false && y"}
+{"nl": "evaluate set n to false in true", "code": "let n = false in true"}
+{"nl": "in case false, nine, otherwise y", "code": "if false then 9 else y"}
+{"nl": "y of b", "code": "y b"}
+{"nl": "let z equal true in nine is the same as x", "code": "(let z = true in 9) == x"}
+{"nl": "lambda c . 7", "code": "lambda c . 7"}
+{"nl": "7 is below one", "code": "7 < 1"}
+{"nl": "when f, n, otherwise 0", "code": "if f then n else 0"}
+{"nl": "function that takes c and gives true", "code": "lambda c . true"}
+{"nl": "the product of g and the product of c times 4", "code": "g * (c * 4)"}
+{"nl": "seven differs from 1", "code": "7 != 1"}
+{"nl": "define b as false in eight", "code": "let b = false in 8"}
+{"nl": "evaluate five unequal to 0", "code": "5 != 0"}
+{"nl": "apply n to 2", "code": "n 2"}
+{"nl": "let z be true in true", "code": "let z = true in true"}
+{"nl": "0 is not equal to one", "code": "0 != 1"}
+{"nl": "in case b, 2, otherwise the value of z", "code": "if b then 2 else z"}
+{"nl": "lambda z . 9", "code": "lambda z . 9"}
+{"nl": "b applied to a", "code": "b a"}
+{"nl": "sum of the product of 3 and 1 and one", "code": "3 * 1 + 1"}
+{"nl": "the sum of 9 and x", "code": "9 + x"}
+{"nl": "both true and true", "code": "true && true"}
+{"nl": "if true then false else true", "code": "if true then false else true"}
+{"nl": "take 0 from two", "code": "2 - 0"}
+{"nl": "sum of where y is false, four and f minus zero", "code": "(let y = false in 4) + (f - 0)"}
+{"nl": "calculate true", "code": "true"}
+{"nl": "let x be true in five", "code": "let x = true in 5"}
+{"nl": "the function taking x and returning g", "code": "lambda x . g"}
+{"nl": "a added to four", "code": "a + 4"}
+{"nl": "apply g to 3", "code": "g 3"}
+{"nl": "a function that takes a and returns false", "code": "lambda a . false"}
+{"nl": "3", "code": "3"}
+{"nl": "y applied to zero equal to two", "code": "y (0 == 2)"}
+{"nl": "y", "code": "y"}
+{"nl": "three is not equal to seven", "code": "3 != 7"}
+{"nl": "a function that takes x and returns n", "code": "lambda x . n"}
+{"nl": "define x as seven in 2", "code": "let x = 7 in 2"}
+{"nl": "return the difference of one and 2", "code": "1 - 2"}
+{"nl": "set c to false in false", "code": "let c = false in false"}
+{"nl": "the variable c above seven", "code": "c > 7"}
+{"nl": "evaluate either false or false or else n is smaller than the value of a and also false", "code": "(false || false || n < a) && false"}
+{"nl": "let c equal in case true, b, otherwise five in call f on two", "code": "let c = if true then b else 5 in f 2"}
+{"nl": "if true then z, otherwise 8", "code": "if true then z else 8"}
+{"nl": "6 equals b applied to g", "code": "6 == b g"}
+{"nl": "a function that takes c and returns 9", "code": "lambda c . 9"}
+{"nl": "n applied to true", "code": "n true"}
+{"nl": "the product of call c with 6 and 7", "code": "7 * c 6"}
+{"nl": "the value of y", "code": "y"}
+{"nl": "evaluate apply y to f", "code": "y f"}
+{"nl": "return the difference of negate c and if false, y else the variable f not equal to z", "code": "-c - (if false then y else f) != z"}
+{"nl": "in case false, true, otherwise 2", "code": "if false then true else 2"}
+{"nl": "6", "code": "6"}
+{"nl": "if when true then true else true, 2 else call the variable c on false", "code": "if if true then true else true then 2 else c false"}
+{"nl": "let x equal y equals the difference of the variable a and 5 in the difference of two and z is greater than six times five", "code": "let x = y == a - 5 in 2 - z > 6 * 5"}
+{"nl": "call b on true", "code": "b true"}
+{"nl": "2 is less than two and n added together", "code": "2 < 2 + n"}
+{"nl": "b and five equals 7", "code": "b && 7 == 5"}
+{"nl": "three minus three", "code": "3 - 3"}
+{"nl": "the function taking f and returning a function of x that returns false", "code": "lambda f . lambda x . false"}
+{"nl": "sum of 9 and g", "code": "9 + g"}
+{"nl": "one", "code": "1"}
+{"nl": "take g from 4", "code": "4 - g"}
+{"nl": "7", "code": "7"}
+{"nl": "calculate a function of f that returns a function that takes g and returns true", "code": "lambda f . lambda g . true"}
+{"nl": "let b be six in a is above 1", "code": "let b = 6 in a > 1"}
+{"nl": "multiply six by z", "code": "6 * z"}
+{"nl": "return if b then x else z", "code": "if b then x else z"}
+{"nl": "call the value of c with 5", "code": "c 5"}
+{"nl": "8", "code": "8"}
+{"nl": "negate z decreased by f", "code": "-(z - f)"}
+{"nl": "multiply the product of 9 times a by the value of b", "code": "b * (a * 9)"}
+{"nl": "the value of y decreased by 4 is less than multiply one by nine", "code": "y - 4 < 1 * 9"}
+{"nl": "take the value of x from seven", "code": "7 - x"}
+{"nl": "evaluate one plus 3", "code": "1 + 3"}
+{"nl": "when both 0 is less than z and f below four then the variable c else the value of x equals 2 and also in case f, false, otherwise false", "code": "if 0 < z && f < 4 then c else 2 == x && (if f then false else false)"}
+{"nl": "lambda n . six", "code": "lambda n . 6"}
+{"nl": "five below a", "code": "5 < a"}
+{"nl": "false or alternatively true", "code": "false || true"}
+{"nl": "function that takes g and gives function that takes f and gives f", "code": "lambda g . lambda f . f"}
+{"nl": "evaluate takes y and returns false", "code": "lambda y . false"}
+{"nl": "if false, the value of n else true", "code": "if false then n else true"}
+{"nl": "call the variable x with in case true, 2, otherwise two", "code": "x (if true then 2 else 2)"}
+{"nl": "compute let f equal let g be 5 in five in z of a function that takes b and returns false", "code": "let f = let g = 5 in 5 in z (lambda b . false)"}
+{"nl": "z applied to x", "code": "z x"}
+{"nl": "in case true, eight, otherwise six", "code": "if true then 8 else 6"}
+{"nl": "multiply y and the difference of three and three is greater than g", "code": "(3 - 3) * y > g"}
+{"nl": "b", "code": "b"}
+{"nl": "calculate when false then eight else sum of n and 5", "code": "if false then 8 else n + 5"}
+{"nl": "in case true, true, otherwise g", "code": "if true then true else g"}
+{"nl": "when true then two else n", "code": "if true then 2 else n"}
+{"nl": "with z equal to zero, the value of c is more than 6", "code": "let z = 0 in c > 6"}
+{"nl": "true and also true", "code": "true && true"}
+{"nl": "true and also c", "code": "true && c"}
+{"nl": "function that takes b and gives zero", "code": "lambda b . 0"}
+{"nl": "where a is 5, 4", "code": "let a = 5 in 4"}
+{"nl": "multiply y and the negation of the difference of z and five", "code": "y * -(z - 5)"}
+{"nl": "when b, false, otherwise true", "code": "if b then false else true"}
+{"nl": "call y with true", "code": "y true"}
+{"nl": "call f with where a is false, 3", "code": "f (let a = false in 3)"}
+{"nl": "2 decreased by seven", "code": "2 - 7"}
+{"nl": "multiply the variable f by 5", "code": "5 * f"}
+{"nl": "call g with six", "code": "g 6"}
+{"nl": "when false, true, otherwise y", "code": "if false then true else y"}
+{"nl": "evaluate the value of c", "code": "c"}
+{"nl": "let z equal a in false", "code": "let z = a in false"}
+{"nl": "if true then if false, 7 else eight, otherwise when 9 is below g, 9, otherwise 6 multiplied by x", "code": "if true then if false then 7 else 8 else if 9 < g then 9 else 6 * x"}
+{"nl": "when false, x, otherwise false", "code": "if false then x else false"}
+{"nl": "subtract g take away four from 6 take away 6", "code": "6 - 6 - (g - 4)"}
+{"nl": "compute takes z and returns g", "code": "lambda z . g"}
+{"nl": "b differs from c", "code": "b != c"}
+{"nl": "call z on false", "code": "z false"}
+{"nl": "true and false and also 8 and y are equal", "code": "true && false && 8 == y"}
+{"nl": "the difference of nine and the variable g", "code": "9 - g"}
+{"nl": "with g equal to apply f to false, if false, true else true", "code": "let g = f false in if false then true else true"}
+{"nl": "n is less than 4", "code": "n < 4"}
+{"nl": "a of the value of n", "code": "a n"}
+{"nl": "if define a as c in 0 is equal to two and one added together, true else four", "code": "if (let a = c in 0) == 2 + 1 then true else 4"}
+{"nl": "evaluate subtract 3 from y", "code": "y - 3"}
+{"nl": "compute sum of g and five", "code": "g + 5"}
+{"nl": "in case false and also false, given a equals c, 4, otherwise the product of seven times 6", "code": "if false && false then let a = c in 4 else 7 * 6"}
+{"nl": "the product of nine times seven equals x", "code": "9 * 7 == x"}
+{"nl": "f of zero", "code": "f 0"}
+{"nl": "z decreased by b", "code": "z - b"}
+{"nl": "let g be where g is false, c in true", "code": "let g = let g = false in c in true"}
+{"nl": "call a on c", "code": "a c"}
+{"nl": "function that takes c and gives 3", "code": "lambda c . 3"}
+{"nl": "compute the product of y plus two and f decreased by x", "code": "(2 + y) * (f - x)"}
+{"nl": "negate five", "code": "-5"}
+{"nl": "let x equal true in when true then given n equals zero, 4 else false", "code": "let x = true in if true then let n = 0 in 4 else false"}
+{"nl": "with f equal to two, y", "code": "let f = 2 in y"}
+{"nl": "5 above seven", "code": "5 > 7"}
+{"nl": "if false then eight, otherwise five", "code": "if false then 8 else 5"}
+{"nl": "false or alternatively true or else g", "code": "false || true || g"}
+{"nl": "eight greater than two", "code": "8 > 2"}
+{"nl": "when false then the value of n else true", "code": "if false then n else true"}
+{"nl": "when false then multiply eight and a else g", "code": "if false then 8 * a else g"}
+{"nl": "multiply 9 by sum of 1 and z", "code": "9 * (1 + z)"}
+{"nl": "given b equals the value of g is larger than g, the value of x and nine added together", "code": "let b = g > g in x + 9"}
+{"nl": "where z is 2, true", "code": "let z = 2 in true"}
+{"nl": "a function that takes f and returns true", "code": "lambda f . true"}
+{"nl": "five", "code": "5"}
+{"nl": "when true, 9, otherwise true", "code": "if true then 9 else true"}
+{"nl": "return define f as false in true", "code": "let f = false in true"}
+{"nl": "g applied to c", "code": "g c"}
+{"nl": "lambda a . b", "code": "lambda a . b"}
+{"nl": "the value of y applied to true", "code": "y true"}
+{"nl": "subtract 8 from g", "code": "g - 8"}
+{"nl": "define g as the variable a in apply y to a", "code": "let g = a in y a"}
+{"nl": "f", "code": "f"}
+{"nl": "calculate given a equals true, true", "code": "let a = true in true"}
+{"nl": "when false, true, otherwise lambda n . 7 is more than 3", "code": "if false then true else lambda n . 7 > 3"}
+{"nl": "compute z applied to nine is less than call y with false", "code": "z 9 < y false"}
+{"nl": "n is above y", "code": "n > y"}
+{"nl": "a function of z that returns seven", "code": "lambda z . 7"}
+{"nl": "sum of three and 1", "code": "3 + 1"}
+{"nl": "0 is more than six", "code": "0 > 6"}
+{"nl": "return takes x and returns false", "code": "lambda x . false"}
+{"nl": "evaluate a", "code": "a"}
+{"nl": "a function of y that returns true", "code": "lambda y . true"}
+{"nl": "with n equal to 1, the variable f", "code": "let n = 1 in f"}
+{"nl": "evaluate let c equal z in false", "code": "let c = z in false"}
+{"nl": "seven multiplied by 7", "code": "7 * 7"}
+{"nl": "return let a be b in nine", "code": "let a = b in 9"}
+{"nl": "calculate the negation of multiply b by 9 decreased by x", "code": "-((9 - x) * b)"}
+{"nl": "x is below g", "code": "x < g"}
+{"nl": "nine decreased by 9", "code": "9 - 9"}
+{"nl": "true and f", "code": "true && f"}
+{"nl": "the value of b is the same as 3", "code": "b == 3"}
+{"nl": "b is larger than x", "code": "b > x"}
+{"nl": "the product of nine and the product of 4 and 5", "code": "4 * 5 * 9"}
+{"nl": "2 less than four", "code": "2 < 4"}
+{"nl": "when false, a, otherwise true", "code": "if false then a else true"}
+{"nl": "calculate call b on eight", "code": "b 8"}
+{"nl": "the function taking y and returning 1", "code": "lambda y . 1"}
+{"nl": "calculate negative 7", "code": "-7"}
+{"nl": "define g as false in a", "code": "let g = false in a"}
+{"nl": "set x to x in 9", "code": "let x = x in 9"}
+{"nl": "the variable g of true", "code": "g true"}
+{"nl": "let a be both if true, y else false and the value of z is above 6 in multiply add nine and z and 4", "code": "let a = (if true then y else false) && z > 6 in 4 * (9 + z)"}
+{"nl": "if false then if false then false, otherwise zero, otherwise takes f and returns six", "code": "if false then if false then false else 0 else lambda f . 6"}
+{"nl": "a function of b that returns if g then 0, otherwise five not equal to x", "code": "lambda b . (if g then 0 else 5) != x"}
+{"nl": "return call z with false", "code": "z false"}
+{"nl": "if where z is c and 9 are equal, false or else false then true, otherwise sum of y multiplied by the variable g and 1", "code": "if let z = c == 9 in false || false then true else g * y + 1"}
+{"nl": "call the variable x on false", "code": "x false"}
+{"nl": "where x is y, a", "code": "let x = y in a"}
+{"nl": "z is less than if true, 9 else two", "code": "z < (if true then 9 else 2)"}
+{"nl": "four decreased by two", "code": "4 - 2"}
+{"nl": "the variable c and f added together is equal to negative 0", "code": "c + f == -0"}
+{"nl": "takes c and returns true", "code": "lambda c . true"}
+{"nl": "true as well as true", "code": "true && true"}
+{"nl": "nine", "code": "9"}
+{"nl": "if true and also z, call z with two else where a is true, true", "code": "if true && z then z 2 else let a = true in true"}
+{"nl": "return the value of y multiplied by four", "code": "y * 4"}
+{"nl": "return function that takes x and gives false", "code": "lambda x . false"}
+{"nl": "the sum of 6 and y is different from when false then 4 else 2", "code": "6 + y != (if false then 4 else 2)"}
+{"nl": "n or alternatively the variable n", "code": "n || n"}
+{"nl": "call takes x and returns g on if true or else z then take x from z else when z, 1, otherwise true", "code": "(lambda x . g) (if true || z then z - x else if z then 1 else true)"}
+{"nl": "the product of 7 times b", "code": "b * 7"}
+{"nl": "sum of y and subtract three from f", "code": "y + (f - 3)"}
+{"nl": "function that takes y and gives call b on 8", "code": "lambda y . b 8"}
+{"nl": "lambda a . false", "code": "lambda a . false"}
+{"nl": "evaluate f plus 8", "code": "f + 8"}
+{"nl": "five is greater than n", "code": "5 > n"}
+{"nl": "two equal to f", "code": "2 == f"}
+{"nl": "given n equals true, nine", "code": "let n = true in 9"}
+{"nl": "return n applied to true", "code": "n true"}
+{"nl": "the negative of set z to zero in 8", "code": "-(let z = 0 in 8)"}
+{"nl": "calculate c minus two", "code": "c - 2"}
+{"nl": "7 is different from two", "code": "7 != 2"}
+{"nl": "subtract 3 minus 1 from multiply 4 by four", "code": "4 * 4 - (3 - 1)"}
+{"nl": "one and three added together", "code": "1 + 3"}
+{"nl": "call takes n and returns 8 on true", "code": "(lambda n . 8) true"}
+{"nl": "evaluate true and false", "code": "true && false"}
+{"nl": "with y equal to y, true", "code": "let y = y in true"}
+{"nl": "4 and x added together", "code": "4 + x"}
+{"nl": "the function taking b and returning lambda g . true", "code": "lambda b . lambda g . true"}
+{"nl": "when a then two else 2", "code": "if a then 2 else 2"}
+{"nl": "x", "code": "x"}
+{"nl": "five is less than 2", "code": "5 < 2"}
+{"nl": "given z equals false, 4", "code": "let z = false in 4"}
+{"nl": "seven plus 2 decreased by zero", "code": "7 + 2 - 0"}
+{"nl": "a applied to true", "code": "a true"}
+{"nl": "multiply 6 multiplied by the variable a and f", "code": "6 * a * f"}
+{"nl": "in case y, a, otherwise nine", "code": "if y then a else 9"}
+{"nl": "set n to false in n applied to false", "code": "let n = false in n false"}
+{"nl": "function that takes x and gives false", "code": "lambda x . false"}
+{"nl": "a function of y that returns x", "code": "lambda y . x"}
+{"nl": "negative five", "code": "-5"}
+{"nl": "z or when false and b, false, otherwise two equals z", "code": "z || (if false && b then false else 2 == z)"}
+{"nl": "when false, a, otherwise y", "code": "if false then a else y"}
+{"nl": "calculate the value of c of the value of f", "code": "c f"}
+{"nl": "1", "code": "1"}
+{"nl": "in case false, false, otherwise the value of g", "code": "if false then false else g"}
+{"nl": "let g be false in two", "code": "let g = false in 2"}
+{"nl": "y is less than five", "code": "y < 5"}
+{"nl": "f multiplied by a", "code": "f * a"}
+{"nl": "where c is false, false", "code": "let c = false in false"}
+{"nl": "sum of one and 2", "code": "1 + 2"}
+{"nl": "nine added to 6", "code": "9 + 6"}
+{"nl": "three less than 2", "code": "3 < 2"}
+{"nl": "take 1 from a", "code": "a - 1"}
+{"nl": "calculate subtract x decreased by one from b", "code": "b - (x - 1)"}
+{"nl": "sum of y and add the value of c and the difference of eight and 8", "code": "y + (8 - 8 + c)"}
+{"nl": "apply the value of c to the variable n is equal to four", "code": "c n == 4"}
+{"nl": "the product of c of three and five", "code": "c 3 * 5"}
+{"nl": "when true, five added to four, otherwise minus 5", "code": "if true then 5 + 4 else -5"}
+{"nl": "the difference of seven and g is smaller than if true then 5 else three", "code": "7 - g < (if true then 5 else 3)"}
+{"nl": "if false, three else false", "code": "if false then 3 else false"}
+{"nl": "the negation of 4", "code": "-4"}
+{"nl": "a function of x that returns y", "code": "lambda x . y"}
+{"nl": "if if true then g, otherwise false then the product of c times three, otherwise a", "code": "if if true then g else false then c * 3 else a"}
+{"nl": "the negative of two", "code": "-2"}
+{"nl": "function that takes x and gives true", "code": "lambda x . true"}
+{"nl": "the function taking y and returning 6", "code": "lambda y . 6"}
+{"nl": "call z on either false or 6 is the same as 1", "code": "z (false || 6 == 1)"}
+{"nl": "multiply subtract two from f and a", "code": "(f - 2) * a"}
+{"nl": "return a function that takes b and returns in case false, c, otherwise when true, true, otherwise c", "code": "lambda b . if false then c else if true then true else c"}
+{"nl": "let f be false in a is less than three", "code": "let f = false in a < 3"}
+{"nl": "with b equal to 7, false", "code": "let b = 7 in false"}
+{"nl": "zero is below n", "code": "0 < n"}
+{"nl": "either false or false", "code": "false || false"}
+{"nl": "define f as b in b greater than a", "code": "(let f = b in b) > a"}
+{"nl": "the negative of the negative of 2", "code": "--2"}
+{"nl": "let f be false in two", "code": "let f = false in 2"}
+{"nl": "when false then 9 else one", "code": "if false then 9 else 1"}
+{"nl": "let y be f in false", "code": "let y = f in false"}
+{"nl": "9 equals x", "code": "9 == x"}
+{"nl": "return c is less than two", "code": "c < 2"}
+{"nl": "a applied to n below six", "code": "a (n < 6)"}
+{"nl": "takes f and returns lambda y . f", "code": "lambda f . lambda y . f"}
+{"nl": "x is larger than add y and four added together and seven", "code": "x > 4 + y + 7"}
+{"nl": "with z equal to true, one", "code": "let z = true in 1"}
+{"nl": "return when 9 unequal to 9, function that takes c and gives 1, otherwise true", "code": "if 9 != 9 then lambda c . 1 else true"}
+{"nl": "seven is less than seven", "code": "7 < 7"}
+{"nl": "when c, if false, the variable c else 8, otherwise b", "code": "if c then if false then c else 8 else b"}
+{"nl": "lambda f . false", "code": "lambda f . false"}
+{"nl": "f of n", "code": "f n"}
+{"nl": "four", "code": "4"}
+{"nl": "if c then false else apply g to z", "code": "if c then false else g z"}
+{"nl": "when true, true, otherwise apply f to false", "code": "if true then true else f false"}
+{"nl": "n of 7", "code": "n 7"}
+{"nl": "the product of c and sum of eight and 5", "code": "c * (8 + 5)"}
+{"nl": "call c on x", "code": "c x"}
+{"nl": "when false then true else false", "code": "if false then true else false"}
+{"nl": "calculate apply the variable f to when false, g, otherwise z", "code": "f (if false then g else z)"}
+{"nl": "compute c applied to false", "code": "c false"}
+{"nl": "where g is nine, n greater than five and also six is below x", "code": "let g = 9 in n > 5 && 6 < x"}
+{"nl": "true or else the variable z and eight is equal to one and g is equal to c applied to b", "code": "(true || z) && 8 == 1 && g == c b"}
+{"nl": "f decreased by six decreased by 9", "code": "f - (6 - 9)"}
+{"nl": "the product of four times one decreased by 9 and sum of g and 7", "code": "(g + 7) * (4 * 1 - 9)"}
+{"nl": "if false, the variable g else true", "code": "if false then g else true"}
+{"nl": "given z equals true, b", "code": "let z = true in b"}
+{"nl": "the difference of g and six", "code": "g - 6"}
+{"nl": "x is equal to y", "code": "x == y"}
+{"nl": "z decreased by z", "code": "z - z"}
+{"nl": "in case both true and the value of f, c, otherwise when false, g, otherwise 4", "code": "if true && f then c else if false then g else 4"}
+{"nl": "when false as well as false then 9 else g", "code": "if false && false then 9 else g"}
+{"nl": "if c equals 5 then when true then b else x else 4", "code": "if c == 5 then if true then b else x else 4"}
+{"nl": "if 9 equals 9, y less than n else true or else false", "code": "if 9 == 9 then y < n else true || false"}
+{"nl": "evaluate the sum of eight and 3", "code": "8 + 3"}
+{"nl": "in case true, six, otherwise a", "code": "if true then 6 else a"}
+{"nl": "if false, if the variable f is above seven, b else a function of z that returns f else false", "code": "if false then if f > 7 then b else lambda z . f else false"}
+{"nl": "compute multiply negative y and nine equals z", "code": "-y * 9 == z"}
+{"nl": "the sum of 5 and g", "code": "5 + g"}
+{"nl": "true and also 1 is below seven", "code": "true && 1 < 7"}
+{"nl": "n times three is less than five plus f", "code": "n * 3 < f + 5"}
+{"nl": "x or else false", "code": "x || false"}
+{"nl": "a less than zero", "code": "a < 0"}
+{"nl": "evaluate z equals 9", "code": "z == 9"}
+{"nl": "sum of take 9 from 3 and if true then x else four", "code": "3 - 9 + (if true then x else 4)"}
+{"nl": "in case false, false, otherwise false", "code": "if false then false else false"}
+{"nl": "calculate let x be true in c is larger than subtract y from five", "code": "(let x = true in c) > 5 - y"}
+{"nl": "compute x equals five", "code": "5 == x"}
+{"nl": "the variable a is not equal to one", "code": "a != 1"}
+{"nl": "multiply when true then 8 else 0 and negated the value of c", "code": "(if true then 8 else 0) * -c"}
+{"nl": "false or else true", "code": "false || true"}
+{"nl": "given c equals true, true", "code": "let c = true in true"}
+{"nl": "the sum of the value of x and 8", "code": "8 + x"}
+{"nl": "set c to the variable y minus the value of f in 2", "code": "let c = y - f in 2"}
+{"nl": "return add the sum of n and 7 and four", "code": "n + 7 + 4"}
+{"nl": "negative 0 and 4 added together", "code": "-(0 + 4)"}
+{"nl": "if 6 is below two then two else four", "code": "if 6 < 2 then 2 else 4"}
+{"nl": "x is less than 7", "code": "x < 7"}
+{"nl": "set b to 7 in three", "code": "let b = 7 in 3"}
+{"nl": "return one", "code": "1"}
+{"nl": "takes x and returns 2", "code": "lambda x . 2"}
+{"nl": "one minus a", "code": "1 - a"}
+{"nl": "given b equals x, the value of y", "code": "let b = x in y"}
+{"nl": "negated the value of b", "code": "-b"}
+{"nl": "take 1 from 6", "code": "6 - 1"}
+{"nl": "call z on 5", "code": "z 5"}
+{"nl": "call g on let n equal y in f", "code": "g (let n = y in f)"}
+{"nl": "evaluate in case b, false, otherwise false", "code": "if b then false else false"}
+{"nl": "a function that takes n and returns true", "code": "lambda n . true"}
+{"nl": "subtract z from n", "code": "n - z"}
+{"nl": "function that takes a and gives n", "code": "lambda a . n"}
+{"nl": "multiply 6 by 9 plus two", "code": "6 * (9 + 2)"}
+{"nl": "let x equal false in add 9 and x", "code": "let x = false in 9 + x"}
+{"nl": "compute apply b to with n equal to x, true and true", "code": "b ((let n = x in true) && true)"}
+{"nl": "given c equals with y equal to true, false, call y with b", "code": "let c = let y = true in false in y b"}
+{"nl": "call c with 4", "code": "c 4"}
+{"nl": "z minus c", "code": "z - c"}
+{"nl": "n plus b", "code": "b + n"}
+{"nl": "a function of x that returns false", "code": "lambda x . false"}
+{"nl": "the product of subtract 5 from the variable x and n", "code": "n * (x - 5)"}
+{"nl": "calculate the function taking n and returning f", "code": "lambda n . f"}
+{"nl": "with b equal to multiply 7 and 1 added together and the negation of z, if f and false then let f equal f in z else function that takes z and gives 5", "code": "let b = (7 + 1) * -z in if f && false then let f = f in z else lambda z . 5"}
+{"nl": "the value of g applied to false", "code": "g false"}
+{"nl": "call takes b and returns true with false", "code": "(lambda b . true) false"}
+{"nl": "return sum of a and 7 added together and the variable a", "code": "a + 7 + a"}
+{"nl": "the negative of five", "code": "-5"}
+{"nl": "x of f applied to 4", "code": "x (f 4)"}
+{"nl": "multiply 6 and x", "code": "6 * x"}
+{"nl": "with n equal to true, true", "code": "let n = true in true"}
+{"nl": "call the variable z with x", "code": "z x"}
+{"nl": "evaluate apply the value of y to false", "code": "y false"}
+{"nl": "y differs from 2", "code": "y != 2"}
+{"nl": "7 not equal to g", "code": "7 != g"}
+{"nl": "lambda y . f", "code": "lambda y . f"}
+{"nl": "the value of x", "code": "x"}
+{"nl": "0 is the same as x", "code": "0 == x"}
+{"nl": "false and true", "code": "false && true"}
+{"nl": "a function that takes z and returns 1", "code": "lambda z . 1"}
+{"nl": "y minus eight", "code": "y - 8"}
+{"nl": "with n equal to true, one", "code": "let n = true in 1"}
+{"nl": "y applied to lambda a . 9", "code": "y (lambda a . 9)"}
+{"nl": "g applied to if true, g else a", "code": "g (if true then g else a)"}
+{"nl": "add let n be false in one and the variable y", "code": "(let n = false in 1) + y"}
+{"nl": "with g equal to true, true", "code": "let g = true in true"}
+{"nl": "define g as zero in b", "code": "let g = 0 in b"}
+{"nl": "the function taking g and returning false", "code": "lambda g . false"}
+{"nl": "8 less than 7", "code": "8 < 7"}
+{"nl": "add two and six", "code": "2 + 6"}
+{"nl": "the product of 5 times two", "code": "5 * 2"}
+{"nl": "the variable n plus a", "code": "n + a"}
+{"nl": "both false and false", "code": "false && false"}
+{"nl": "when given c equals y, true, zero and four added together, otherwise c", "code": "if let c = y in true then 0 + 4 else c"}
+{"nl": "x times z", "code": "z * x"}
+{"nl": "calculate the sum of n and c", "code": "n + c"}
+{"nl": "evaluate sum of the variable x and x", "code": "x + x"}
+{"nl": "x is the same as 2", "code": "x == 2"}
+{"nl": "one is more than 9", "code": "1 > 9"}
+{"nl": "evaluate 9 is less than f", "code": "9 < f"}
+{"nl": "a function that takes g and returns true", "code": "lambda g . true"}
+{"nl": "let x equal z in if true then false, otherwise false", "code": "let x = z in if true then false else false"}
+{"nl": "the product of eight and 8", "code": "8 * 8"}
+{"nl": "calculate define x as 3 in b", "code": "let x = 3 in b"}
+{"nl": "x and 2 is below x", "code": "x && 2 < x"}
+{"nl": "let a equal false or alternatively false in c", "code": "let a = false || false in c"}
+{"nl": "return let z be true in true", "code": "let z = true in true"}
+{"nl": "compute define c as g in x", "code": "let c = g in x"}
+{"nl": "return multiply negate three by if true then the variable f else 7", "code": "(if true then f else 7) * -3"}
+{"nl": "let x be c in true", "code": "let x = c in true"}
+{"nl": "if 2 minus four is less than the negation of four then the function taking a and returning a function of y that returns true, otherwise true", "code": "if 2 - 4 < -4 then lambda a . lambda y . true else true"}
+{"nl": "let b equal false in 3", "code": "let b = false in 3"}
+{"nl": "evaluate when false, b, otherwise true", "code": "if false then b else true"}
+{"nl": "a function that takes z and returns false", "code": "lambda z . false"}
+{"nl": "if true then c, otherwise z", "code": "if true then c else z"}
+{"nl": "the variable x as well as true", "code": "x && true"}
+{"nl": "given g equals true, three", "code": "let g = true in 3"}
+{"nl": "when c and two are equal, the variable c, otherwise five", "code": "if c == 2 then c else 5"}
+{"nl": "x applied to seven", "code": "x 7"}
+{"nl": "sum of 5 and the product of z and c is greater than set x to f in when true then eight else 9", "code": "5 + z * c > (let x = f in if true then 8 else 9)"}
+{"nl": "calculate the value of f", "code": "f"}
+{"nl": "define y as true in f", "code": "let y = true in f"}
+{"nl": "given y equals a, true", "code": "let y = a in true"}
+{"nl": "0 plus zero", "code": "0 + 0"}
+{"nl": "3 unequal to f", "code": "3 != f"}
+{"nl": "let c equal f in one is less than z", "code": "(let c = f in 1) < z"}
+{"nl": "when n of false then z else 4", "code": "if n false then z else 4"}
+{"nl": "let c equal false in 8", "code": "let c = false in 8"}
+{"nl": "set c to eight in false", "code": "let c = 8 in false"}
+{"nl": "the product of 4 times 0", "code": "4 * 0"}
+{"nl": "9 is the same as five", "code": "9 == 5"}
+{"nl": "a function that takes f and returns the sum of seven added to 2 and c", "code": "lambda f . 7 + 2 + c"}
+{"nl": "a function of c that returns g", "code": "lambda c . g"}
+{"nl": "calculate b of 7 is less than 4 times four", "code": "b 7 < 4 * 4"}
+{"nl": "the variable z applied to 5 is less than 8", "code": "z 5 < 8"}
+{"nl": "return the variable g and 9 added together", "code": "9 + g"}
+{"nl": "apply z to true", "code": "z true"}
+{"nl": "the difference of a and z less than 5 and 6 less than one", "code": "a - z < 5 && 6 < 1"}
+{"nl": "if false then one is less than x, otherwise n less than z", "code": "if false then 1 < x else n < z"}
+{"nl": "call n with false or else false", "code": "n false || false"}
+{"nl": "5 and one are equal and also let g equal false in z or else the variable n is the same as the sum of x and 1", "code": "5 == 1 && (let g = false in z) || n == 1 + x"}
+{"nl": "function that takes c and gives f is less than four", "code": "lambda c . f < 4"}
+{"nl": "compute nine above 7", "code": "9 > 7"}
+{"nl": "the sum of four and six", "code": "6 + 4"}
+{"nl": "calculate call f with 1", "code": "f 1"}
+{"nl": "calculate a function that takes n and returns b", "code": "lambda n . b"}
+{"nl": "the difference of 4 and two", "code": "4 - 2"}
+{"nl": "when 1 equal to three then a function that takes a and returns false else n", "code": "if 1 == 3 then lambda a . false else n"}
+{"nl": "apply f to if z, b else three", "code": "f (if z then b else 3)"}
+{"nl": "calculate if true then eight, otherwise one", "code": "if true then 8 else 1"}
+{"nl": "sum of three and c", "code": "3 + c"}
+{"nl": "the function taking y and returning x", "code": "lambda y . x"}
+{"nl": "a function that takes c and returns 2 times 5", "code": "lambda c . 2 * 5"}
+{"nl": "evaluate true and also true or else true as well as true", "code": "true && true || true && true"}
+{"nl": "4", "code": "4"}
+{"nl": "the difference of 4 and x", "code": "4 - x"}
+{"nl": "when g differs from 0, true, otherwise call b on y", "code": "if g != 0 then true else b y"}
+{"nl": "if four and g are equal then if f, true else true else the function taking a and returning true", "code": "if 4 == g then if f then true else true else lambda a . true"}
+{"nl": "set g to n in 5", "code": "let g = n in 5"}
+{"nl": "a", "code": "a"}
+{"nl": "return if true, three else y", "code": "if true then 3 else y"}
+{"nl": "6 is the same as 8 and true", "code": "6 == 8 && true"}
+{"nl": "compute let a be x in false", "code": "let a = x in false"}
+{"nl": "negate 5", "code": "-5"}
+{"nl": "apply x to apply z to z", "code": "x (z z)"}
+{"nl": "g is greater than one", "code": "g > 1"}
+{"nl": "either if 2 equals the variable n, true else 9 is above 4 or false and true", "code": "(if 2 == n then true else 9 > 4) || false && true"}
+{"nl": "takes a and returns true", "code": "lambda a . true"}
+{"nl": "call a on false", "code": "a false"}
+{"nl": "with g equal to false, true", "code": "let g = false in true"}
+{"nl": "where n is 6, true", "code": "let n = 6 in true"}
+{"nl": "0 is different from the product of z times 5", "code": "0 != z * 5"}
+{"nl": "eight is less than two minus seven", "code": "8 < 2 - 7"}
+{"nl": "where a is a, false", "code": "let a = a in false"}
+{"nl": "where a is zero, true", "code": "let a = 0 in true"}
+{"nl": "x of true", "code": "x true"}
+{"nl": "compute subtract b from negative x", "code": "-x - b"}
+{"nl": "call the variable n with true", "code": "n true"}
+{"nl": "the value of b plus five", "code": "5 + b"}
+{"nl": "if zero not equal to three, the value of x else true", "code": "if 0 != 3 then x else true"}
+{"nl": "if b and 4 are equal then the negative of one else 9", "code": "if b == 4 then -1 else 9"}
+{"nl": "call f on true", "code": "f true"}
+{"nl": "the negative of six plus three", "code": "-(6 + 3)"}
+{"nl": "multiply c and multiply 0 by 8", "code": "c * (0 * 8)"}
+{"nl": "calculate call f on given z equals four, 8", "code": "f (let z = 4 in 8)"}
+{"nl": "compute z", "code": "z"}
+{"nl": "given f equals eight, true", "code": "let f = 8 in true"}
+{"nl": "x above x", "code": "x > x"}
+{"nl": "evaluate seven", "code": "7"}
+{"nl": "false or true", "code": "false || true"}
+{"nl": "sum of sum of nine and b and 9", "code": "9 + b + 9"}
+{"nl": "y is not equal to n applied to let g equal true in eight", "code": "y != n (let g = true in 8)"}
+{"nl": "c", "code": "c"}
+{"nl": "let f equal two is not equal to three in a is less than y", "code": "let f = 2 != 3 in a < y"}
+{"nl": "if true then g, otherwise five", "code": "if true then g else 5"}
+{"nl": "where x is false, 2", "code": "let x = false in 2"}
+{"nl": "four is above four", "code": "4 > 4"}
+{"nl": "evaluate when z is larger than zero, call n with 4, otherwise a", "code": "if z > 0 then n 4 else a"}
+{"nl": "when true then false else f", "code": "if true then false else f"}
+{"nl": "4 is equal to 5", "code": "4 == 5"}
+{"nl": "8 greater than one", "code": "8 > 1"}
+{"nl": "compute call g with when true then false else 7", "code": "g (if true then false else 7)"}
+{"nl": "a as well as true", "code": "a && true"}
+{"nl": "if if 9 equal to f then false, otherwise c equals f then the function taking b and returning lambda f . seven else b", "code": "if if 9 == f then false else c == f then lambda b . lambda f . 7 else b"}
+{"nl": "compute y is below nine", "code": "y < 9"}
+{"nl": "multiply call the value of g on true by zero times five", "code": "0 * 5 * g true"}
+{"nl": "define y as g in g is equal to c", "code": "(let y = g in g) == c"}
+{"nl": "4 above eight", "code": "4 > 8"}
+{"nl": "apply f to false", "code": "f false"}
+{"nl": "the variable y of z", "code": "y z"}
+{"nl": "apply a function of f that returns true to 7 is larger than the negative of 5", "code": "(lambda f . true) (7 > -5)"}
+{"nl": "zero", "code": "0"}
+{"nl": "compute x of 7", "code": "x 7"}
+{"nl": "define a as 9 in n", "code": "let a = 9 in n"}
+{"nl": "let z be f in true", "code": "let z = f in true"}
+{"nl": "takes g and returns one", "code": "lambda g . 1"}
+{"nl": "define a as false in false", "code": "let a = false in false"}
+{"nl": "the difference of z and g", "code": "z - g"}
+{"nl": "apply f to n", "code": "f n"}
+{"nl": "the sum of 1 decreased by c and add the negation of n and the variable a of false", "code": "1 - c + (-n + a false)"}
+{"nl": "set n to seven in the negative of given g equals false, the value of a", "code": "let n = 7 in -(let g = false in a)"}
+{"nl": "z multiplied by zero equals z", "code": "0 * z == z"}
+{"nl": "in case either false or 5 less than 6, multiply g by z, otherwise negate 2", "code": "if false || 5 < 6 then g * z else -2"}
+{"nl": "define z as 2 in 3", "code": "let z = 2 in 3"}
+{"nl": "when true then true else when true then false else false", "code": "if true then true else if true then false else false"}
+{"nl": "when true, 6, otherwise g", "code": "if true then 6 else g"}
+{"nl": "take five from z", "code": "z - 5"}
+{"nl": "the sum of 5 and two", "code": "2 + 5"}
+{"nl": "if false then false else false", "code": "if false then false else false"}
+{"nl": "g applied to four", "code": "g 4"}
+{"nl": "with n equal to true, if the value of z below z, n else two added to five", "code": "let n = true in if z < z then n else 2 + 5"}
+{"nl": "the sum of x take away z and the variable c is larger than add n added to n and nine", "code": "c + (x - z) > 9 + (n + n)"}
+{"nl": "call b on one", "code": "b 1"}
+{"nl": "c of 0", "code": "c 0"}
+{"nl": "a function that takes g and returns 6", "code": "lambda g . 6"}
+{"nl": "define a as false in true", "code": "let a = false in true"}
+{"nl": "apply x to five", "code": "x 5"}
+{"nl": "n of z", "code": "n z"}
+{"nl": "when false, b, otherwise false", "code": "if false then b else false"}
+{"nl": "the function taking y and returning true", "code": "lambda y . true"}
+{"nl": "apply x to 2 is the same as x", "code": "x (2 == x)"}
+{"nl": "the variable b is below n", "code": "b < n"}
+{"nl": "if false and also true then the variable f else nine added to 7", "code": "if false && true then f else 9 + 7"}
+{"nl": "multiply four by seven not equal to six and 1 added together", "code": "4 * 7 != 6 + 1"}
+{"nl": "set a to false in c", "code": "let a = false in c"}
+{"nl": "where c is five, the difference of 9 plus g and 0 take away n", "code": "let c = 5 in 9 + g - (0 - n)"}
+{"nl": "set f to true in true", "code": "let f = true in true"}
+{"nl": "with z equal to false, in case true, false, otherwise 1", "code": "let z = false in if true then false else 1"}
+{"nl": "true or false and true", "code": "true || false && true"}
+{"nl": "either two is equal to 7 or y", "code": "2 == 7 || y"}
+{"nl": "a applied to nine", "code": "a 9"}
+{"nl": "evaluate the product of negative four and 2", "code": "-4 * 2"}
+{"nl": "5", "code": "5"}
+{"nl": "true and also add 2 and seven not equal to zero", "code": "true && 2 + 7 != 0"}
+{"nl": "takes b and returns true", "code": "lambda b . true"}
+{"nl": "g is smaller than when true then zero else 8", "code": "g < (if true then 0 else 8)"}
+{"nl": "a function that takes z and returns a", "code": "lambda z . a"}
+{"nl": "evaluate true or alternatively true", "code": "true || true"}
+{"nl": "x differs from one", "code": "x != 1"}
+{"nl": "5 equals 9", "code": "9 == 5"}
+{"nl": "the negative of negated apply z to false", "code": "--z false"}
+{"nl": "multiply g and g less than multiply three by 2 and also false", "code": "g * g < 3 * 2 && false"}
+{"nl": "in case b, false or else true, otherwise call a with false is the same as 6", "code": "if b then false || true else a false == 6"}
+{"nl": "define c as when 6 is larger than x, define y as one in nine, otherwise false in x applied to false", "code": "let c = if 6 > x then let y = 1 in 9 else false in x false"}
+{"nl": "subtract 7 from when either g or false, b of 7, otherwise 1 take away eight", "code": "(if g || false then b 7 else 1 - 8) - 7"}
+{"nl": "x applied to four or else true", "code": "x 4 || true"}
+{"nl": "the value of b applied to function that takes z and gives z", "code": "b (lambda z . z)"}
+{"nl": "define b as 7 in multiply add c and 6 and two", "code": "let b = 7 in (6 + c) * 2"}
+{"nl": "apply the variable g to a", "code": "g a"}
+{"nl": "if when true, true or else false, otherwise let x be n in true then the value of x applied to the negative of two, otherwise z", "code": "if if true then true || false else let x = n in true then x (-2) else z"}
+{"nl": "add add one and n and the sum of let f be false in g and the difference of 7 and 9", "code": "n + 1 + ((let f = false in g) + (7 - 9))"}
+{"nl": "apply g to with a equal to 2, zero", "code": "g (let a = 2 in 0)"}
+{"nl": "let c be subtract the value of f added to four from the variable g in false", "code": "let c = g - (4 + f) in false"}
+{"nl": "when false then true else eight", "code": "if false then true else 8"}
+{"nl": "in case true or else true, two, otherwise if true, 9 else three", "code": "if true || true then 2 else if true then 9 else 3"}
+{"nl": "four less than multiply nine and six", "code": "4 < 9 * 6"}
+{"nl": "calculate 4 below nine", "code": "4 < 9"}
+{"nl": "calculate the sum of 2 take away b and x applied to f", "code": "2 - b + x f"}
+{"nl": "return if false then false else false", "code": "if false then false else false"}
+{"nl": "1 unequal to 7", "code": "1 != 7"}
+{"nl": "the function taking x and returning apply y to false", "code": "lambda x . y false"}
+{"nl": "calculate when c, false, otherwise true", "code": "if c then false else true"}
+{"nl": "set x to false in true", "code": "let x = false in true"}
+{"nl": "call z with false", "code": "z false"}
+{"nl": "subtract f from if true then six, otherwise 2", "code": "(if true then 6 else 2) - f"}
+{"nl": "with g equal to g, true", "code": "let g = g in true"}
+{"nl": "function that takes g and gives true", "code": "lambda g . true"}
+{"nl": "calculate let f equal 3 in true", "code": "let f = 3 in true"}
+{"nl": "take nine from six", "code": "6 - 9"}
+{"nl": "if false or alternatively false then 1 is above two, otherwise three", "code": "if false || false then 1 > 2 else 3"}
+{"nl": "apply the value of f to false", "code": "f false"}
+{"nl": "sum of 9 and b", "code": "b + 9"}
+{"nl": "compute given c equals false, true", "code": "let c = false in true"}
+{"nl": "n of the variable z of 0", "code": "n (z 0)"}
+{"nl": "in case false, c, otherwise c", "code": "if false then c else c"}
+{"nl": "0 decreased by the sum of x and y minus 3", "code": "0 - (x + (y - 3))"}
+{"nl": "if true then false else x", "code": "if true then false else x"}
+{"nl": "the sum of g and y", "code": "g + y"}
+{"nl": "eight is equal to z", "code": "8 == z"}
+{"nl": "call f on nine", "code": "f 9"}
+{"nl": "compute n above c or else g equals 7", "code": "n > c || 7 == g"}
+{"nl": "let g be b in 6", "code": "let g = b in 6"}
+{"nl": "return add 0 and one is different from n", "code": "0 + 1 != n"}
+{"nl": "lambda a . n", "code": "lambda a . n"}
+{"nl": "a function of a that returns true", "code": "lambda a . true"}
+{"nl": "c times two", "code": "c * 2"}
+{"nl": "six minus the value of a", "code": "6 - a"}
+{"nl": "call the value of f on one", "code": "f 1"}
+{"nl": "evaluate three unequal to 0 or else b applied to false", "code": "3 != 0 || b false"}
+{"nl": "the product of 3 and negated the value of g", "code": "3 * -g"}
+{"nl": "let b be true in x", "code": "let b = true in x"}
+{"nl": "takes f and returns false", "code": "lambda f . false"}
+{"nl": "call f with 2", "code": "f 2"}
+{"nl": "if false, b else false", "code": "if false then b else false"}
+{"nl": "given f equals b, false", "code": "let f = b in false"}
+{"nl": "evaluate 8 added to 4", "code": "8 + 4"}
+{"nl": "when false, n, otherwise true", "code": "if false then n else true"}
+{"nl": "compute 7 times g", "code": "7 * g"}
+{"nl": "when b then true else the variable a added to two", "code": "if b then true else a + 2"}
+{"nl": "if f and also x then true else false", "code": "if f && x then true else false"}
+{"nl": "the negative of the value of z", "code": "-z"}
+{"nl": "return define y as set f to false in true in false", "code": "let y = let f = false in true in false"}
+{"nl": "a added to 5", "code": "a + 5"}
+{"nl": "let a equal true in one", "code": "let a = true in 1"}
+{"nl": "return sum of the value of n and 1", "code": "n + 1"}
+{"nl": "evaluate two minus 1", "code": "2 - 1"}
+{"nl": "call x on 8", "code": "x 8"}
+{"nl": "function that takes y and gives false", "code": "lambda y . false"}
+{"nl": "four added to x", "code": "x + 4"}
+{"nl": "multiply four by negated if false, five else 3", "code": "4 * -(if false then 5 else 3)"}
+{"nl": "let f be false in z", "code": "let f = false in z"}
+{"nl": "if true then z else if true then 7 else two", "code": "if true then z else if true then 7 else 2"}
+{"nl": "f and a added together is less than c plus nine", "code": "f + a < c + 9"}
+{"nl": "negated b", "code": "-b"}
+{"nl": "b is greater than take three from nine", "code": "b > 9 - 3"}
+{"nl": "add 4 and c", "code": "4 + c"}
+{"nl": "compute f is larger than multiply 9 by seven", "code": "f > 7 * 9"}
+{"nl": "multiply six by when true, x, otherwise c", "code": "6 * (if true then x else c)"}
+{"nl": "call y with false", "code": "y false"}
+{"nl": "evaluate x is above 5", "code": "x > 5"}
+{"nl": "set z to g in false", "code": "let z = g in false"}
+{"nl": "calculate either true or false", "code": "true || false"}
+{"nl": "multiply zero and n", "code": "n * 0"}
+{"nl": "call the value of c on a", "code": "c a"}
+{"nl": "where g is two, 9", "code": "let g = 2 in 9"}
+{"nl": "call n on y", "code": "n y"}
+{"nl": "the sum of n and a", "code": "n + a"}
+{"nl": "four is not equal to x", "code": "4 != x"}
+{"nl": "let c be true in 9", "code": "let c = true in 9"}
+{"nl": "if with a equal to nine, true, apply b to c else 3", "code": "if let a = 9 in true then b c else 3"}
+{"nl": "a function that takes f and returns false", "code": "lambda f . false"}
+{"nl": "z of c", "code": "z c"}
+{"nl": "in case false, 7, otherwise three", "code": "if false then 7 else 3"}
+{"nl": "with f equal to true, false", "code": "let f = true in false"}
+{"nl": "call b with false", "code": "b false"}
+{"nl": "sum of 2 and b is not equal to sum of two and 5", "code": "2 + b != 2 + 5"}
+{"nl": "in case either true or true, false, otherwise false", "code": "if true || true then false else false"}
+{"nl": "apply y to f", "code": "y f"}
+{"nl": "a function that takes a and returns three", "code": "lambda a . 3"}
+{"nl": "in case true, false, otherwise a", "code": "if true then false else a"}
+{"nl": "8 and 6 added together", "code": "8 + 6"}
+{"nl": "seven plus y", "code": "7 + y"}
+{"nl": "apply the value of x to 7", "code": "x 7"}
+{"nl": "return 6 and eight are equal", "code": "6 == 8"}
+{"nl": "if b, true else true", "code": "if b then true else true"}
+{"nl": "call z on true", "code": "z true"}
+{"nl": "true and true", "code": "true && true"}
+{"nl": "return a function of x that returns true", "code": "lambda x . true"}
+{"nl": "five less than sum of z and z", "code": "5 < z + z"}
+{"nl": "calculate let z be one in z", "code": "let z = 1 in z"}
+{"nl": "with z equal to true, z", "code": "let z = true in z"}
+{"nl": "the product of the variable y and y of if true then six, otherwise c", "code": "y * y (if true then 6 else c)"}
+{"nl": "true or alternatively false", "code": "true || false"}
+{"nl": "minus five", "code": "-5"}
+{"nl": "if when true, 1, otherwise 5 is the same as subtract 4 from a then the negative of a, otherwise c", "code": "if (if true then 1 else 5) == a - 4 then -a else c"}
+{"nl": "4 is smaller than 3", "code": "4 < 3"}
+{"nl": "evaluate negated eight greater than y", "code": "-8 > y"}
+{"nl": "the sum of seven and 8 decreased by three", "code": "8 - 3 + 7"}
+{"nl": "in case false, the value of c, otherwise nine", "code": "if false then c else 9"}
+{"nl": "calculate subtract 6 from two", "code": "2 - 6"}
+{"nl": "the variable y", "code": "y"}
+{"nl": "if two added to six greater than the product of a and f, in case g, in case false, y, otherwise false, otherwise 3 else 9 less than f", "code": "if 2 + 6 > a * f then if g then if false then y else false else 3 else 9 < f"}
+{"nl": "let y equal false in the negation of 4", "code": "let y = false in -4"}
+{"nl": "let x equal false in three", "code": "let x = false in 3"}
+{"nl": "b of four", "code": "b 4"}
+{"nl": "if false, seven else x", "code": "if false then 7 else x"}
+{"nl": "8 equal to c", "code": "8 == c"}
+{"nl": "the variable f equals b", "code": "b == f"}
+{"nl": "the value of a or alternatively true", "code": "a || true"}
+{"nl": "takes b and returns 7", "code": "lambda b . 7"}
+{"nl": "calculate c added to a", "code": "c + a"}
+{"nl": "where z is g, g", "code": "let z = g in g"}
+{"nl": "subtract z from eight is not equal to seven plus four", "code": "8 - z != 7 + 4"}
+{"nl": "the difference of if false then y else f and z", "code": "(if false then y else f) - z"}
+{"nl": "if with b equal to five, x is greater than negative four, a function of c that returns four else add g and add the variable n and b", "code": "if (let b = 5 in x) > -4 then lambda c . 4 else g + (b + n)"}
+{"nl": "when true then b else false", "code": "if true then b else false"}
+{"nl": "calculate set b to y in 0", "code": "let b = y in 0"}
+{"nl": "either a or true", "code": "a || true"}
+{"nl": "when false then false else true", "code": "if false then false else true"}
+{"nl": "return the value of y", "code": "y"}
+{"nl": "calculate a function of a that returns false", "code": "lambda a . false"}
+{"nl": "n added to a", "code": "n + a"}
+{"nl": "call z on z and also z of false or either false or false and also g", "code": "z z && z false || (false || false) && g"}
+{"nl": "five unequal to 1", "code": "5 != 1"}
+{"nl": "the negation of x plus nine", "code": "-(x + 9)"}
+{"nl": "eight equals 4", "code": "4 == 8"}
+{"nl": "subtract subtract 6 from three from 3", "code": "3 - (3 - 6)"}
+{"nl": "takes f and returns z", "code": "lambda f . z"}
+{"nl": "if false then eight, otherwise minus 5", "code": "if false then 8 else -5"}
+{"nl": "return y applied to true", "code": "y true"}
+{"nl": "f is equal to 1 or false or false", "code": "f == 1 || (false || false)"}
+{"nl": "compute apply b to true", "code": "b true"}
+{"nl": "eight is less than five plus 0", "code": "8 < 0 + 5"}
+{"nl": "define a as given a equals the variable c, true in true", "code": "let a = let a = c in true in true"}
+{"nl": "x not equal to g", "code": "x != g"}
+{"nl": "false and also true", "code": "false && true"}
+{"nl": "a function that takes a and returns 2", "code": "lambda a . 2"}
+{"nl": "eight is more than three", "code": "8 > 3"}
+{"nl": "if g or alternatively false, four else multiply 7 by zero", "code": "if g || false then 4 else 7 * 0"}
+{"nl": "when c, f, otherwise y", "code": "if c then f else y"}
+{"nl": "call n with true", "code": "n true"}
+{"nl": "compute y", "code": "y"}
+{"nl": "1 is below five", "code": "1 < 5"}
+{"nl": "compute b decreased by n", "code": "b - n"}
+{"nl": "the product of 3 and seven", "code": "7 * 3"}
+{"nl": "evaluate false or four equal to six", "code": "false || 4 == 6"}
+{"nl": "the value of g applied to define y as true in eight", "code": "g (let y = true in 8)"}
+{"nl": "a function of g that returns let f be x in false", "code": "lambda g . let f = x in false"}
+{"nl": "return the product of a and 6", "code": "a * 6"}
+{"nl": "return when false then g else z", "code": "if false then g else z"}
+{"nl": "return the variable b", "code": "b"}
+{"nl": "take the variable n from 3", "code": "3 - n"}
+{"nl": "call x with zero", "code": "x 0"}
+{"nl": "the sum of 0 and the sum of add nine and zero and z", "code": "0 + (0 + 9 + z)"}
+{"nl": "lambda n . a", "code": "lambda n . a"}
+{"nl": "six not equal to z", "code": "6 != z"}
+{"nl": "multiply where g is false, g by f", "code": "(let g = false in g) * f"}
+{"nl": "apply x to the value of a", "code": "x a"}
+{"nl": "compute where y is true and true, eight", "code": "let y = true && true in 8"}
+{"nl": "the variable z", "code": "z"}
+{"nl": "apply n to 1", "code": "n 1"}
+{"nl": "negate zero", "code": "-0"}
+{"nl": "lambda x . apply x to where b is false, true", "code": "lambda x . x (let b = false in true)"}
+{"nl": "false or alternatively a", "code": "false || a"}
+{"nl": "add six and y", "code": "6 + y"}
+{"nl": "minus c", "code": "-c"}
+{"nl": "compute call g on y", "code": "g y"}
+{"nl": "call z on 7", "code": "z 7"}
+{"nl": "the product of c times 4", "code": "c * 4"}
+{"nl": "return c", "code": "c"}
+{"nl": "the product of 4 and x", "code": "x * 4"}
+{"nl": "n plus 5", "code": "5 + n"}
+{"nl": "call a on eight", "code": "a 8"}
+{"nl": "in case true, if b then x else n, otherwise six", "code": "if true then if b then x else n else 6"}
+{"nl": "if the variable x then 3 else 2", "code": "if x then 3 else 2"}
+{"nl": "return false or else if true then z else true", "code": "false || (if true then z else true)"}
+{"nl": "the difference of three and 5", "code": "3 - 5"}
+{"nl": "c applied to if false, b else y", "code": "c (if false then b else y)"}
+{"nl": "c applied to two", "code": "c 2"}
+{"nl": "set a to true in false", "code": "let a = true in false"}
+{"nl": "zero plus 0 is smaller than c", "code": "0 + 0 < c"}
+{"nl": "call the variable y on false", "code": "y false"}
+{"nl": "the difference of 8 and 2", "code": "8 - 2"}
+{"nl": "minus multiply the product of eight and n and three plus b", "code": "-(n * 8 * (3 + b))"}
+{"nl": "c applied to false", "code": "c false"}
+{"nl": "when define y as true in true, takes g and returns false, otherwise multiply n by 3", "code": "if let y = true in true then lambda g . false else n * 3"}
+{"nl": "evaluate if the variable b, with y equal to 9, two else 4 multiplied by two", "code": "if b then let y = 9 in 2 else 2 * 4"}
+{"nl": "return call b with given y equals n, a", "code": "b (let y = n in a)"}
+{"nl": "when y of six, call b on y, otherwise true", "code": "if y 6 then b y else true"}
+{"nl": "a function of z that returns false", "code": "lambda z . false"}
+{"nl": "the value of z of true", "code": "z true"}
+{"nl": "let x equal zero is smaller than g in f", "code": "let x = 0 < g in f"}
+{"nl": "add two and 2 is the same as c", "code": "2 + 2 == c"}
+{"nl": "false or c", "code": "false || c"}
+{"nl": "call n with false", "code": "n false"}
+{"nl": "two is different from given g equals false, g", "code": "2 != (let g = false in g)"}
+{"nl": "evaluate n of 8", "code": "n 8"}
+{"nl": "either both false and true or false and false", "code": "false && true || false && false"}
+{"nl": "n decreased by five", "code": "n - 5"}
+{"nl": "sum of apply a to 2 and c", "code": "a 2 + c"}
+{"nl": "0 is larger than two", "code": "0 > 2"}
+{"nl": "lambda n . z plus b is not equal to the difference of 1 and four", "code": "lambda n . z + b != 1 - 4"}
+{"nl": "return two is below f", "code": "2 < f"}
+{"nl": "c and two are equal", "code": "c == 2"}
+{"nl": "apply g to g", "code": "g g"}
+{"nl": "add b and 6", "code": "6 + b"}
+{"nl": "c and three are different", "code": "c != 3"}
+{"nl": "set z to six in g and 5 added together", "code": "let z = 6 in 5 + g"}
+{"nl": "where g is false, y", "code": "let g = false in y"}
+{"nl": "b added to n", "code": "b + n"}
+{"nl": "if false then y else 1 is larger than f", "code": "(if false then y else 1) > f"}
+{"nl": "z applied to 0", "code": "z 0"}
+{"nl": "given g equals call c with define g as false in false, if false then call b with true else with y equal to six, zero", "code": "let g = c (let g = false in false) in if false then b true else let y = 6 in 0"}
+{"nl": "the negative of eight", "code": "-8"}
+{"nl": "compute let n be when both false and x then 2 else 8 in two", "code": "let n = if false && x then 2 else 8 in 2"}
+{"nl": "return two equals g", "code": "g == 2"}
+{"nl": "add five and 4", "code": "4 + 5"}
+{"nl": "the product of sum of eight and y and f minus 7 decreased by three", "code": "(8 + y) * (f - 7) - 3"}
+{"nl": "evaluate the variable c is below nine", "code": "c < 9"}
+{"nl": "g of false", "code": "g false"}
+{"nl": "if false, f else multiply nine by z", "code": "if false then f else 9 * z"}
+{"nl": "function that takes n and gives if true, b else takes x and returns x", "code": "lambda n . if true then b else lambda x . x"}
+{"nl": "both true and false and true or false and also 9 is larger than y take away z", "code": "true && false && (true || false) && 9 > y - z"}
+{"nl": "8 plus n", "code": "8 + n"}
+{"nl": "compute call the value of z with the variable f is less than two", "code": "z (f < 2)"}
+{"nl": "lambda g . three", "code": "lambda g . 3"}
+{"nl": "both false and true", "code": "false && true"}
+{"nl": "the negation of 6", "code": "-6"}
+{"nl": "six is larger than 9", "code": "6 > 9"}
+{"nl": "multiply eight and if false then seven else multiply f and a", "code": "(if false then 7 else f * a) * 8"}
+{"nl": "set x to 5 in x", "code": "let x = 5 in x"}
+{"nl": "add one and a is smaller than the value of x", "code": "1 + a < x"}
+{"nl": "define f as if f then b of true else c in x", "code": "let f = if f then b true else c in x"}
+{"nl": "calculate b and eight added together", "code": "8 + b"}
+{"nl": "three is smaller than five", "code": "3 < 5"}
+{"nl": "the negation of the variable n", "code": "-n"}
+{"nl": "the function taking f and returning y", "code": "lambda f . y"}
+{"nl": "if false, if false then 1 else x else true", "code": "if false then if false then 1 else x else true"}
+{"nl": "g applied to a", "code": "g a"}
+{"nl": "4 unequal to 9", "code": "4 != 9"}
+{"nl": "seven is larger than if false, c else two", "code": "7 > (if false then c else 2)"}
+{"nl": "minus g", "code": "-g"}
+{"nl": "take two from four", "code": "4 - 2"}
+{"nl": "compute in case true, a function that takes a and returns 8, otherwise the function taking g and returning if false then 1, otherwise 8", "code": "if true then lambda a . 8 else lambda g . if false then 1 else 8"}
+{"nl": "return in case true, false, otherwise true", "code": "if true then false else true"}
+{"nl": "define g as lambda a . true in true and false", "code": "let g = lambda a . true in true && false"}
+{"nl": "seven is below three", "code": "7 < 3"}
+{"nl": "nine is below 6", "code": "9 < 6"}
+{"nl": "the difference of a and add g and y", "code": "a - (g + y)"}
+{"nl": "0 is larger than 9", "code": "0 > 9"}
+{"nl": "f less than g and 9 differs from 1", "code": "f < g && 9 != 1"}
+{"nl": "either if true then false, otherwise true or true", "code": "(if true then false else true) || true"}
+{"nl": "if z then a, otherwise seven", "code": "if z then a else 7"}
+{"nl": "evaluate takes a and returns false", "code": "lambda a . false"}
+{"nl": "eight is not equal to seven times two", "code": "8 != 7 * 2"}
+{"nl": "with c equal to three differs from 9, where c is false, true", "code": "let c = 3 != 9 in let c = false in true"}
+{"nl": "calculate call n with x equal to eight", "code": "n (x == 8)"}
+{"nl": "x and nine are equal", "code": "x == 9"}
+{"nl": "set c to false in zero", "code": "let c = false in 0"}
+{"nl": "apply a to false", "code": "a false"}
+{"nl": "the negation of nine", "code": "-9"}
+{"nl": "evaluate the sum of 2 and b and y added together", "code": "2 + (y + b)"}
+{"nl": "let f equal false in five", "code": "let f = false in 5"}
+{"nl": "define g as 8 take away 8 in add subtract the value of b from y and the variable a multiplied by six", "code": "let g = 8 - 8 in y - b + a * 6"}
+{"nl": "in case a equals the value of z, 3, otherwise in case false, false, otherwise five", "code": "if z == a then 3 else if false then false else 5"}
+{"nl": "set y to when true then true else n in let b be y in true", "code": "let y = if true then true else n in let b = y in true"}
+{"nl": "the value of n multiplied by a", "code": "n * a"}
+{"nl": "a of b is less than g", "code": "a b < g"}
+{"nl": "the difference of where b is f, 6 and the difference of nine and 2", "code": "(let b = f in 6) - (9 - 2)"}
+{"nl": "two is more than the variable n", "code": "2 > n"}
+{"nl": "in case true, two, otherwise y", "code": "if true then 2 else y"}
+{"nl": "if true, y else z", "code": "if true then y else z"}
+{"nl": "if false, 1 else y", "code": "if false then 1 else y"}
+{"nl": "given n equals 4, false", "code": "let n = 4 in false"}
+{"nl": "negated 1 decreased by n", "code": "-(1 - n)"}
+{"nl": "the value of a of true", "code": "a true"}
+{"nl": "calculate 6 greater than minus the variable n", "code": "6 > -n"}
+{"nl": "three is not equal to take c from z", "code": "3 != z - c"}
+{"nl": "false and c below f", "code": "false && c < f"}
+{"nl": "in case true, true, otherwise false", "code": "if true then true else false"}
